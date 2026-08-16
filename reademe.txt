@@ -38,3 +38,7 @@ Laravel Project Setup Instructions
    After the server starts, open the URL shown in the terminal, usually:
 
    http://127.0.0.1:8000
+
+8. Credentials
+user = admin@thequantumtech.com
+password = Admin@1992
